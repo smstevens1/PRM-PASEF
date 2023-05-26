@@ -7,6 +7,7 @@ This python script requires two input files within same directory as script:
 Once executed, the user will be asked several prompts (description below).
 1) Enter name of IPA file (txt format):
 Specify the gene input list (include .txt extension) and ensure appropriate format (example IPA input is provided).
+The script identifies just the gene column header, so only this is needed when generating a user-defined target list.
 2) Enter name of MS file (tsv format):
 Specify the DIA output file (include .tsv extension) from either DIA-NN or TIMS DIA-NN.
 3) Enter MS file type (TIMSDIANN/DIANN):
