@@ -1,0 +1,37 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Symbol	Entrez Gene Name	GenPept/UniProt/Swiss-Prot Accession	Expr Intensity/RPKM/FPKM/Counts	Expected	Location	Type(s)	Biomarker Application(s)	Drug(s)	Entrez Gene ID for Human	Entrez Gene ID for Mouse	Entrez Gene ID for Rat
+AMBRA1	autophagy and beclin 1 regulator 1	Q9C0C7	7518.310	Up	Cytoplasm	other			55626	228361	59319
+ATF2	activating transcription factor 2	P15336	6047.230	Up	Nucleus	transcription regulator	prognosis		1386	11909	81647
+ATG12	autophagy related 12	O94817	1920.050	Up	Cytoplasm	other			9140	67526	361321
+ATG14	autophagy related 14	Q6ZNE5	3348.150	Up	Cytoplasm	other			22863	100504663	305831
+BAD	BCL2 associated agonist of cell death	Q92934	6319.190	Up	Cytoplasm	other	efficacy		572	12015	64639
+BCL2	BCL2 apoptosis regulator	P10415	2243.060	Down	Cytoplasm	transporter	diagnosis,efficacy,prognosis,unspecified application	(-)-gossypol,ABBV-453,ABBV-623,ABT-737,afatinib/paclitaxel,AZD0466,BCL-2 blocker,BCL201,BGB-11417,bortezomib/paclitaxel,BP1002,chelerythrine,decitabine/venetoclax,doxorubicin/lapatinib/paclitaxel/trastuzumab,doxorubicin/paclitaxel,epirubicin/paclitaxel,everolimus/paclitaxel,FCN-338,gemcitabine/paclitaxel,lapatinib/paclitaxel,levodopa/rasagiline,lisaftoclax,LP-108,LP-118,navitoclax,obatoclax,obinutuzumab/venetoclax,oblimersen,paclitaxel,paclitaxel/pembrolizumab,paclitaxel/pembrolizumab/ramucirumab,paclitaxel/pertuzumab/trastuzumab,paclitaxel/ramucirumab,paclitaxel/rituximab,paclitaxel/topotecan,paclitaxel/trastuzumab,pelcitoclax,rasagiline,rituximab/venetoclax,rosomidnar,S65487,SPC2996,TQB3909,venetoclax,ZN-d5	596	12043	24224
+CAMKK2	calciumcalmodulin dependent protein kinase kinase 2	Q96RR4	8138.240	Up	Cytoplasm	kinase			10645	207565	83506
+CREB5	cAMP responsive element binding protein 5	Q02930	2077.050	Up	Nucleus	transcription regulator			9586	231991	500131
+DDIT3	DNA damage inducible transcript 3	P35638	7850.240	Up	Nucleus	transcription regulator			1649	13198	29467
+EIF2AK3	eukaryotic translation initiation factor 2 alpha kinase 3	Q9NZJ5	9237.370	Up	Cytoplasm	kinase	efficacy	GSK2656157,HC-5404-FU,NMS-03597812,SM1-71	9451	13666	29702
+EPG5	ectopic P-granules 5 autophagy tethering factor	Q9HCE0	7521.170	Up	Cytoplasm	other			57724	100502841	364902
+FOS	Fos proto-oncogene, AP-1 transcription factor subunit	P01100	2618.090	Up	Nucleus	transcription regulator	diagnosis,efficacy		2353	14281	314322
+FOXO1	forkhead box O1	Q12778	2440.090	Up	Nucleus	transcription regulator			2308	56458	84482
+FOXO3	forkhead box O3	O43524	6608.270	Up	Nucleus	transcription regulator	efficacy		2309	56484	294515
+GABARAPL1	GABA type A receptor associated protein like 1	Q9H0R8	8638.230	Up	Cytoplasm	other			23710	57436	689161
+INSR	insulin receptor	P06213	8178.260	Down	Plasma Membrane	kinase	prognosis	ABDP,alogliptin/INS,alogliptin/INS/metformin,BMS-536924,BMS-754807,canakinumab/INS,ceritinib,dapagliflozin/INS,dapagliflozin/INS/metformin,dulaglutide/INS,exenatide/INS,exenatide/INS/metformin,exenatide/INS/metformin/pioglitazone,exenatide/INS/pioglitazone,GSK1838705A,GSK1904529A,INS,INS/linagliptin,INS/linagliptin/metformin,INS/lixisenatide,INS/metformin,INS/metformin/pioglitazone,INS/metformin/saxagliptin,INS/metformin/sitagliptin,INS/metformin/vildagliptin,INS/pioglitazone,INS/protamine zinc insulin,INS/saxagliptin,INS/sitagliptin,INS/vildagliptin,insulin aspart,insulin aspart/insulin degludec,insulin aspart/insulin detemir,insulin degludec,insulin degludec/liraglutide,insulin detemir,insulin glargine,insulin glargine/insulin lispro,insulin glargine/lixisenatide,insulin glargine/lixisenatide/metformin,insulin glargine/metformin,insulin glargine/metformin/sulfonylurea,insulin glulisine,insulin lispro,KW-2450,protamine zinc insulin,SM1-71,staurosporine,subetta	3643	16337	24954
+JUN	Jun proto-oncogene, AP-1 transcription factor subunit	P05412	6537.250	Up	Nucleus	transcription regulator	prognosis,unspecified application		3725	16476	24516
+KAT5	lysine acetyltransferase 5	Q92993	7207.240	Up	Nucleus	transcription regulator			10524	81601	192218
+MYC	MYC proto-oncogene, bHLH transcription factor	P01106	4441.100	Down	Nucleus	transcription regulator	diagnosis,efficacy,prognosis,response to therapy,unspecified application	AVI-4126,MYC-targeting siRNA DCR-MYC,OMO-103,WBC100	4609	17869	24577
+MYD88	MYD88 innate immune signal transduction adaptor	Q99836	7085.240	Up	Plasma Membrane	other	efficacy	bazlitoran	4615	17874	301059
+NRBF2	nuclear receptor binding factor 2	Q96F24	6176.210	Up	Nucleus	transcription regulator			29982	641340	58839|499670|100363472
+PLEKHM1	pleckstrin homology and RUN domain containing M1	Q9Y4G2	3940.200	Up	Cytoplasm	other			9842	353047	303584
+PPM1D	protein phosphatase, Mg2+Mn2+ dependent 1D	O15297	5839.160	Up	Cytoplasm	phosphatase			8493	53892	287585
+PPM1L	protein phosphatase, Mg2+Mn2+ dependent 1L	Q5SGD2	8011.250	Up	Cytoplasm	phosphatase			151742	242083	310506
+PPP2R3B	protein phosphatase 2 regulatory subunit B''beta	Q9Y5P8	2478.120	Up	Nucleus	phosphatase			28227	 	 
+PPP2R5B	protein phosphatase 2 regulatory subunit B'beta	Q15173	3748.130	Up	Cytoplasm	phosphatase			5526	225849	309179
+PRKAB2	protein kinase AMP-activated non-catalytic subunit beta 2	O43741	6369.190	Up	Cytoplasm	kinase			5565	108097	64562
+RB1CC1	RB1 inducible coiled-coil 1	Q8TDY2	10230.300	Up	Nucleus	other			9821	12421	312927
+TFEB	transcription factor EB	P19484	6881.180	Up	Nucleus	transcription regulator			7942	21425	316214
+TGFB1	transforming growth factor beta 1	P01137	7180.160	Down	Extracellular Space	growth factor	diagnosis,efficacy,prognosis,safety,unspecified application	AVID200,cotsiranib,dalantercept,fresolimumab,HB-002T,LY2109761,LY3200882,MSB0011359C,NIS793,SHR1701,SRK-181,STP707,YL-13027	7040	21803	59086
+TNFRSF1A	TNF receptor superfamily member 1A	P19438	856.038	Up	Plasma Membrane	transmembrane receptor	safety,unspecified application	GSK2862277	7132	21937	25625
+TRAF6	TNF receptor associated factor 6	Q9Y4K3	9971.380	Up	Cytoplasm	enzyme			7189	22034	311245
+ULK1	unc-51 like autophagy activating kinase 1	O75385	4315.160	Up	Cytoplasm	kinase		DCC-3116,MRT68921,SBI-0206965,WZ3105	8408	22241	360827
+WIPI1	WD repeat domain, phosphoinositide interacting 1	Q5MNZ9	2438.070	Up	Cytoplasm	other	unspecified application		55062	52639	303630
