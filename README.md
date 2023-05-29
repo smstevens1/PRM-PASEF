@@ -1,21 +1,25 @@
 # PRM-PASEF
 
-This python script requires two input files within same directory as script: 
-1) The gene target list in .txt format (e.g., exported from IPA or user-generated)
-2) DIA output either from DIA-NN (v. 1.8.1) or TIMS DIA-NN (.tsv format)
+This python script requires two input files: 
+1) The gene target list in .txt format: It can be exported from IPA. It can also be a user-generated file, and must have at least one coloum named "Symbol" that has gene names.
+2) DIA output in .tsv format either from DIA-NN (v. 1.8.1) or TIMS DIA-NN.
+
+To run the script, 
+- the user must have python3 installed along with Pandas and Numpy libraries.
+- use command $my_python $path/PRM_script.py, where $my_python refers to python3 vesion and $path is the directory in which PRM_script.py is stored.
 
 Once executed, the user will be asked several prompts (description below).
 1) Enter name of IPA file (txt format):
 Specify the gene input list (include .txt extension) and ensure appropriate format (example IPA input is provided).
-The script identifies just the gene column header, so only this is needed when generating a user-defined target list.
+The script identifies just the gene name under then Symbol column header, so only this is needed when generating a user-defined target list.
 2) Enter name of MS file (tsv format):
-Specify the DIA output file (include .tsv extension) from either DIA-NN or TIMS DIA-NN.
+Specify the DIA output file from either DIA-NN or TIMS DIA-NN (include .tsv extension).
 3) Enter MS file type (TIMSDIANN/DIANN):
 Specify if this output file was generated from TIMSDIANN or DIANN.
 4) Enter name of output file (csv format):
 Name your output file (include .csv extension)
 5) Enter RT range (seconds): [Suggested:240]
-Specify the retention time range window for the precursor ions (our suggested is 4 min but could change based on your experiment).
+Specify the retention time range window for the precursor ions (our suggested is 4 min but could change based on your experiments).
 6) Enter IM tolerance (percent): [Suggested:4]
 Specify the ion mobility measurement tolerance (our suggested window is 4% of the measured IM value from the DIA output).
 7) Enter charge-state relative intensity tolerance (fraction): [Suggested:0.2]
