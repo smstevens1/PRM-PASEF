@@ -31,7 +31,7 @@ the missed cleavage is higher abundance, both peptides will be dropped.
 9) Enter a positive integer to print only the top N highest intensity sequences. (Enter -1 for all sequences):
 Precursors can be limited to a certain number based on intensity (e.g., 2 would indicate to only include the top 2 most intense 
 peptide precursors). If -1 is entered, then all peptides will be included without intensity filtering.
-10) Drop sequences contaning Methionine (YES/NO):
+10) Drop sequences containing Methionine (YES/NO):
 If yes, then all methionine-containing sequences will be dropped from the PRM list.
 
 The .csv file can be directly imported into Bruker Compass HyStar for PRM-PASEF method generation.
