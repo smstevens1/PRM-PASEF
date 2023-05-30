@@ -6,7 +6,7 @@ This python script requires two input files:
 
 To run the script, 
 - the user must have python3 installed along with Pandas and Numpy libraries.
-- use command $my_python $path/PRM_script.py, where $my_python refers to python3 vesion and $path is the directory in which PRM_script.py is stored.
+- use command $my_python $path/PRM_script.py, where $my_python refers to python3 version and $path is the directory in which PRM_script.py is stored.
 
 Once executed, the user will be asked several prompts (description below).
 1) Enter name of IPA file (txt format):
